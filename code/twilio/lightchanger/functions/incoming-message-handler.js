@@ -21,7 +21,7 @@ exports.handler = async (context, event, callback) => {
         params.power = 'on';
         if (instruction !== 'on') {
             // Assume it's a color
-            params.color = instruction;
+            params.color = ins
         }
     }
 
