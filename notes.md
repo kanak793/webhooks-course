@@ -2,7 +2,7 @@
 
 # Understanding Webhooks
 
-## Unit 1  - Integration
+## Unit 1  - Integration & differentiation
 
 In this unit we will focus on combining applications together. We'll do this by handling events triggered by applications.
 
